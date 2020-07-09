@@ -1,11 +1,8 @@
 @charset "utf-8";
 html {
-  /* background-color : #54b664; */
   background-color : black;
 }
-.mainScreenImg{
-  border-radius : 15px;
-}
+
 .banner{
   position: relative;
   width: 1300px;

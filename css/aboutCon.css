@@ -1,0 +1,32 @@
+@charset "utf-8";
+#header{
+  width: auto;
+  height : 200px;
+  background-color : #54b664;
+}
+#header > a > img{
+  width : 420px;
+  height : 200px;
+}
+#header_img{
+  display: block;
+  margin: auto;
+}
+#thumnail1 > img{
+  display: block;
+  margin: auto;
+}
+.container > #where{
+  font-size: 15px;
+}
+.container{
+  width: 1000px;
+  height: 500px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  /* background-color: blue; */
+}
+#explain{
+  font-size: 18px;
+}

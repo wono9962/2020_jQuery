@@ -16,9 +16,12 @@
   font-size: 15px;
 }
 .container{
-  width: 1000px;
+  width: 800px;
   height: 500px;
   display: block;
   margin: auto;
   /* background-color: blue; */
+}
+#button{
+  background-color: #419641;
 }
